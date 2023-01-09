@@ -13,6 +13,18 @@
   }
 }
 
+.flexbox-container {
+  display: flex;
+
+  flex-direction: row;
+}
+
+.flexbox-container button {
+  margin: 5px;
+
+  padding: 5px;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
